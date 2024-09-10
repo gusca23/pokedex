@@ -1,13 +1,64 @@
-body {
+:root{
+  --clr1: #dc0a2d;
+  --clr2: #ffff65;
+  --clr3: #35703d;
+  --clr4: hsl(203, 96%, 57%);
+  --clr5: hsl(0, 0%, 87%);
+  --clr6: #00302a;
+  --pixel: 'DePixel', serif;
+}
+
+@font-face {
+  font-family: 'DePixel';
+  src: url('./fonts/DePixelBreit.otf') format('opentype');
+}
+
+* {
   margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  list-style: none;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.verde{
+  color: #35703d;
+}
+
+.amarillo{
+  color: #ffff65;
+}
+
+.hide{
+  display: none;
+}
+
+body{
+  background: url('./img/fondo.jpg') no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 100svh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.contenedor{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 1rem;
 }

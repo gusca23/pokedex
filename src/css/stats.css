@@ -1,0 +1,38 @@
+.stats{
+    height: 25svh;
+    text-align: center;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    .contenedor-stat{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        p{
+        color: var(--clr5);
+        text-transform: uppercase;
+        }
+
+        progress{
+        height: 1.8rem;
+        background: linear-gradient(309deg, rgba(40,170,251,1) 0%, rgba(221,221,221,1) 54%, rgba(40, 170, 251, 0.676) 100%);
+        }
+
+        /* Estilo para la barra de progreso en navegadores WebKit (Chrome, Safari) */
+        progress::-webkit-progress-bar {
+        background-color: #322c5d;
+        }
+
+        progress::-webkit-progress-value {
+        background-color: #322c5d;
+        }
+
+        /* Estilo para la barra de progreso en navegadores Mozilla (Firefox) */
+        progress::-moz-progress-bar {
+        background-color: #ffff65;
+        }
+
+        
+    }
+    }
