@@ -56,7 +56,7 @@ La aplicación estará disponible en `http://localhost:3000`.
 Las contribuciones son bienvenidas. Por favor, abre un issue para discutir cambios mayores antes de crear un pull request.
 
 ## Vistas
-![Captura de pantalla 1](./Captura%20de%20pantalla%20(1).webp)
-![Captura de pantalla 2](./Captura%20de%20pantalla%20(2).webp)
-![Captura de pantalla 3](./Captura%20de%20pantalla%20(3).webp)
-![Captura de pantalla 4](./Captura%20de%20pantalla%20(4).webp)
+![Captura de pantalla 1](https://drive.google.com/uc?export=view&id=1m4eMEMlKcpkI15DBfZQUkPSM6ADhpsbM)
+![Captura de pantalla 2](https://drive.google.com/uc?export=view&id=18A0BNCIqt5heZpldqwAFvcz1v2r5Vn8V)
+![Captura de pantalla 3](https://drive.google.com/uc?export=view&id=1jS_k4xIFTRod3B_3NfnFL4KV4SsI2J)
+![Captura de pantalla 4](https://drive.google.com/uc?export=view&id=1mI21YFlBsMXIwKPqGO5WiPquIL6EPZof)
