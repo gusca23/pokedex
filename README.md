@@ -54,3 +54,9 @@ La aplicación estará disponible en `http://localhost:3000`.
 ## Contribuciones
 
 Las contribuciones son bienvenidas. Por favor, abre un issue para discutir cambios mayores antes de crear un pull request.
+
+## Vistas
+![Captura de pantalla 1](https://drive.google.com/uc?export=view&id=1m4eMEMlKcpkI15DBfZQUkPSM6ADhpsbM)
+![Captura de pantalla 2](https://drive.google.com/uc?export=view&id=18A0BNCIqt5heZpldqwAFvcz1v2r5Vn8V)
+![Captura de pantalla 3](https://drive.google.com/uc?export=view&id=1jS_k4xIFTRod3B_3NfnFL4KV4SsI2J)
+![Captura de pantalla 4](https://drive.google.com/uc?export=view&id=1mI21YFlBsMXIwKPqGO5WiPquIL6EPZof)
